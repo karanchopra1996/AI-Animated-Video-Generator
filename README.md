@@ -17,11 +17,11 @@ A simple Next.js application that generates short AI-animated videos based on te
 ### Set Up Environment Variables
  - Create a .env file in the project root.
  - Add your Replicate API [https://replicate.com/] token like so
-     - REPLICATE_API_TOKEN=<your-replicate-api-token>
+     - REPLICATE_API_TOKEN = <your-replicate-api-token>
 
 ### Start the Application
  - npm run dev
-The app will run at http://localhost:3000.
+ - The app will run at http://localhost:3000.
 
 ### Usage
  - Enter a short text prompt (e.g., “a cyberpunk city with neon lights”).
